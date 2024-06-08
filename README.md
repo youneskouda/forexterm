@@ -1,0 +1,2 @@
+# forexterm
+page for forexfriend
